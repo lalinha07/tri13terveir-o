@@ -13,4 +13,11 @@
     --palavra3min: rgba(225, 179, 179, 0.99);
     --numero13: rgba(225, 179, 179, 0.99);
     --palavra4seg: rgba(225, 179, 179, 0.99);
+    --cordefundo: rgba(223, 220, 255, 0.99);
+    --cordafonte: rgba(255, 255, 255, 1);
+}
+body{
+    background-color: var(--cordefundo);
+    color: var(--cordafonte);
+    font-family: 'Playfair Display';
 }
