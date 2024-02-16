@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+:root{
+    --botaoativo: rgba(174, 197, 255, 0.95);
+    --botaoinativo: rgba(242, 205, 255, 0.83);
+    --texto1: rgba(156, 159, 186, 0.99);
+    --texto2: rgba(187, 159, 159, 0.99);
+    --numero7: rgba(180, 196, 236, 0.99);
+    --palavra1dias: rgba(154, 164, 191, 0.98);
+    --numero13: rgba(225, 178, 241, 0.98);
+    --palavra2horas: rgba(179, 151, 189, 0.99);
+    --numero18: rgba(225, 179, 179, 0.99);
+    --palavra3min: rgba(225, 179, 179, 0.99);
+    --numero13: rgba(225, 179, 179, 0.99);
+    --palavra4seg: rgba(225, 179, 179, 0.99);
+}
