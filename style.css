@@ -14,7 +14,7 @@
     --numero13: rgba(225, 179, 179, 0.99);
     --palavra4seg: rgba(225, 179, 179, 0.99);
     --cordefundo: rgba(255, 254, 220, 0.99);
-    --cordafonte: rgba(255, 255, 255, 1);
+    --cordafonte: rgb(48, 39, 39);
 }
 body{
     background-color: var(--cordefundo);
