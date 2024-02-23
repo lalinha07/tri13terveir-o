@@ -21,7 +21,7 @@ body{
     color: var(--cordafonte);
     font-family: 'Playfair Display';
 }
-.conteudo-principal{
+.conteúdo-principal{
     display: flex;
     flex-direction: column;
     justify-content: center;
