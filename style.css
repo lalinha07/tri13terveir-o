@@ -53,7 +53,7 @@ body{
     border-right: 2px solid var(--botaoativo);
     border-top: none;
 }
-.botão:first-line{
+.botão:first-child{
     border-radius: 40px 40px 0 0;
 
 }
