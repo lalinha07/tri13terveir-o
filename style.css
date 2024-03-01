@@ -40,5 +40,6 @@ body{
 }
 .botão{
     font-family:'Playfair Display' ;
-    ;
+    background-color: var(--botaoinativo);
+    color: var(--branco);
 }
