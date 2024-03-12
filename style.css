@@ -3,7 +3,7 @@
 :root{
     --botaoativo: rgba(219, 214, 186, 0.95);
     --botaoinativo: rgba(161, 145, 144, 0.986);
-    --texto1: rgba(156, 159, 186, 0.99);
+    --texto1: rgba(235, 234, 231, 0.459);
     --texto2: rgba(187, 159, 159, 0.99);
     --numero7: rgba(180, 196, 236, 0.99);
     --palavra1dias: rgba(154, 164, 191, 0.98);
@@ -62,7 +62,7 @@ body{
 }
 .ativo{
     background-color: var(--botaoativo);
-    border-bottom: 4px solid var(--texto1);
+    border-bottom: 4px solid var(--texto1 );
 }
 @media screen and (min-width: 768px){
     .botoes{
