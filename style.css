@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch&display=swap');
 
 :root{
     --botaoativo: rgba(219, 214, 186, 0.95);
@@ -19,7 +19,7 @@
 body{
     background-color: var(--cordefundo);
     color: var(--cordafonte);
-    font-family: 'Playfair Display';
+    font-family: 'Chakra Petch','Sans-Serif;
 }
 .conteúdo-principal{
     display: flex;
