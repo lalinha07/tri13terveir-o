@@ -19,7 +19,7 @@
 body{
     background-color: var(--cordefundo);
     color: var(--cordafonte);
-    font-family: 'Chakra Petch','Sans-Serif;
+    font-family: 'Chakra Petch','Sans-Serif';
 }
 .conteúdo-principal{
     display: flex;
@@ -39,7 +39,7 @@ body{
     color: var(--branco);
 }
 .botão{
-    font-family:'Playfair Display' ;
+    font-family:'Chakra Petch','Sans-Serif';
     background-color: var(--botaoinativo);
     color: var(--branco);
     display: flex;
