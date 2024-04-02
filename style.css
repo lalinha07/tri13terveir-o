@@ -33,7 +33,7 @@ body{
 .titulo-principal{
     text-align: left;
     width: 100%;
-    font-size: 32px;
+    font-size: 28px;
 }
 .titulo-principal span{
     color: var(--branco);
@@ -75,6 +75,16 @@ body{
 .aba-conteudo{
     display: none;
 }
+.aba-conteudo-titulo-principal{
+    font-size: 28px;
+    text-align: center;
+}
+.aba-conteudo-titulo-secundario{
+    text-align: center;
+    color:  var(--cordafonte)
+    text-transform: uppercase;
+}
+
 @media screen and (min-width: 768px){
     .botoes{
         display: flex;
