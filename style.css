@@ -81,8 +81,12 @@ body{
 }
 .aba-conteudo-titulo-secundario{
     text-align: center;
-    color:  var(--cordafonte)
+    color:  var(--cordafonte);
     text-transform: uppercase;
+}
+.contador{
+    text-align: center;
+    font-size: 20px;
 }
 
 @media screen and (min-width: 768px){
